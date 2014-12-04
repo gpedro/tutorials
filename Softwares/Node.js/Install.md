@@ -6,17 +6,17 @@ Afinal, o que é Node.js? Segundo a Wikipédia:
 >
 > -- <cite>[Wikipédia](http://pt.wikipedia.org/wiki/Node.js)</cite>
 
-A instalação do Node.js é um processo simples e está disponivel na maioria dos sistemas operacionais populares.
+A instalação do Node.js é um processo simples e está disponível na maioria dos sistemas operacionais populares.
 
 ### Windows
 
-Acesse o site oficial do [Node.js](http://nodejs.org/), clique em download e selecione a versão compativel com a versão do seu sistema operacional. O processo de instalação consistem em proximo, proximo e fim.
+Acesse o site oficial do [Node.js](http://nodejs.org/), clique em download e selecione a versão compatível com a versão do seu sistema operacional. O processo de instalação consistem em próximo, próximo e fim.
 
 Abra o terminal e execute o seguinte comando:
 
 	node -v && npm -v
 
-Se a resposta dos comandos for a versão do software, parabens você efetivou a instalação com sucesso.
+Se a resposta dos comandos for a versão do software, parabéns você efetivou a instalação com sucesso.
 
 ### OS X
 
