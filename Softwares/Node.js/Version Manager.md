@@ -8,10 +8,9 @@ Um dos softwares mais populares para gerenciamento de versão no Node.js é o [N
 
 Faça o download do [NVM para windows](https://github.com/coreybutler/nvm-windows) e execute o instalador. O processo de instalação é simples, basta avançar entre os passos do instalador.
 
-### Linux
+### Linux & OS X
 
-TODO
-
-### OS X
-
-TODO
+Abra seu Terminal e execute o comando abaixo:
+```bash
+curl https://raw.githubusercontent.com/creationix/nvm/v0.20.0/install.sh | bash
+```
