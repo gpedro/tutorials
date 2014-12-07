@@ -210,7 +210,7 @@ Feito esses procedimentos agora sua aplicação tem suporte ao Jade. Divirta-se!
 
 Caso os links dentro de `app\layouts\master.jade` apresentem `../` como o exemplo abaixo:
 
-```html
+```jade
 link(rel='stylesheet', href='/../bower_components/font-awesome/css/font-awesome.css')
 ```
 

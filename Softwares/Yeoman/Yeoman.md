@@ -29,7 +29,7 @@ yo -h
 ### Geradores
 
 Existem diversos geradores disponíveis na web, abaixo listo alguns geradores mais utilizados:
-    
+
 - [AngularJS](https://github.com/yeoman/generator-angular)
 - [Web app](https://github.com/yeoman/generator-webapp)
 - [AngularJS Full-Stack](https://github.com/DaftMonk/generator-angular-fullstack)
