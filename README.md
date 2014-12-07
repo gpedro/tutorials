@@ -7,5 +7,5 @@ Set of tutorials to help build better software's.
 Only need clone the repo:
 
 ```bash
-git clone git@github.com:brunobatista/tutorials.git Tutorials
+git clone git@github.com:codexplain/tutorials.git Tutorials
 ```
