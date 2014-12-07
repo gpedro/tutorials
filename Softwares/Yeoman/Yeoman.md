@@ -1,22 +1,30 @@
-## Instalação
+# Yeoman
 
 Qualquer profissional, independente de área, sabe que boas ferramentas auxiliam diretamente no resultado de qualquer demanda. O [Yeoman](http://yeoman.io/) é uma excelente ferramenta para gerar a estruturada inicial do projeto. Essa estrutura segue os melhores padrões de desenvolvimento de software e auxilia os desenvolvedores a manter o foco na qualidade do código que está sendo escrito.
 
+## Instalação
+
 Para instalar o [Yeoman](http://yeoman.io/) é necessário ter o gerenciador de pacotes do [Node.js](http://nodejs.org) ([NPM](https://www.npmjs.org/)) instalado. Abra o terminal e execute os seguintes comandos para verificar se o [NPM](https://www.npmjs.org/) está instalado:
 
-    npm -v
+```bash
+npm -v
+```
 
 Se o retorno do comando for a versão do Node Packaged Modules ([NPM](https://www.npmjs.org/)) você estará apto a fazer a instalação do [Yeoman](http://yeoman.io/).
 
 Agora para fazer a instalação do [Yeoman](http://yeoman.io/) execute o seguinte comando:
 
-    npm install -g yo
+```bash
+npm install -g yo
+```
 
-Se tudo ocorrer bem com a instalação basta executar o comando ```yo``` no terminal para ver o [Yeoman](http://yeoman.io/) dar boas vindas a você.
+Se tudo ocorrer bem com a instalação basta executar o comando `yo` no terminal para ver o [Yeoman](http://yeoman.io/) dar boas vindas a você.
 
 Para visualizar mais comandos do [Yeoman](http://yeoman.io/) execute o seguinte comando:
 
-    yo -h
+```bash
+yo -h
+```
 
 ### Geradores
 
