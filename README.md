@@ -1,10 +1,11 @@
-Tutorials
-=========
+# Tutorials
 
-My collection of tutorials.
+Set of tutorials to help build better software's.
 
-### Installation
+## Installation
 
 Only need clone the repo:
 
-	git clone git@github.com:brunobatista/tutorials.git Tutorials
+```bash
+git clone git@github.com:brunobatista/tutorials.git Tutorials
+```
